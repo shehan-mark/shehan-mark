@@ -8,7 +8,7 @@
 
 * 🌱 I’m currently learning Unreal engine and Unity Engine.
 
-### Languages That im working with
+### Languages that im work with
 
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![C#](https://img.shields.io/badge/-.net-000?&logo=c%2b%2b&logoColor=00599C)
