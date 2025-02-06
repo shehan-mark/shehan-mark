@@ -27,5 +27,4 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
 #### Reach me
-<a href="https://www.linkedin.com/in/shehanmark/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
+<a href="https://www.linkedin.com/in/shehanmark/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://shehan-mark.github.io/" target="_blank"><img src="https://img.shields.io/badge/web%20portfolio-8A2BE2?&style=flat-square" alt="website"></a>
