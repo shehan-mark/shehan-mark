@@ -2,7 +2,7 @@
 
 [![](https://magiccopy.xyz/assets/images/hadder.gif)](https://github.com/shehan-mark)
 
-![Hello There!, I'm @shehan-mark](images/my-animation.gif)
+![Hello There!, I'm @shehan-mark](https://github.com/shehan-mark/shehan-mark/blob/main/hello_there.gif)
 
 <a href="https://www.linkedin.com/in/shehanmark/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://shehan-mark.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/web%20portfolio-8A2BE2?&style=flat-square" alt="website"></a>
 
