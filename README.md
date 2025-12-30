@@ -6,7 +6,7 @@
 
 <a href="https://www.linkedin.com/in/shehanmark/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://shehan-mark.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/web%20portfolio-8A2BE2?&style=flat-square" alt="website"></a>
 
-Embedded Systems Engineer in the Making | Full-Stack Background
+### Embedded Systems Engineer in the Making | Full-Stack Background
 
 I’m a full-time full-stack developer transitioning into embedded systems engineering, with a passion for working close to the hardware. I enjoy writing efficient, reliable code that interacts directly with real-world systems—because making LEDs blink is still surprisingly satisfying 💡.
 
